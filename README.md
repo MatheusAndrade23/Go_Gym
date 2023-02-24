@@ -4,7 +4,7 @@
 
 </div>
 
-<h3 align="center">Um App para controle de exercícios feitos, com tutorias de atividades classificadas por grupo muscular, desenvolvido com React Native + Typescript + Native Base durante um módulo da trilha de React Native da jornada Ignite, da Roketseat.</h3>
+<h3 align="center">Um App para controle de exercícios feitos, com tutorias de atividades classificadas por grupo muscular, desenvolvido com React Native + Typescript + Native Base durante um módulo da trilha de React Native da jornada Ignite, da Rocketseat.</h3>
 
 ---
 
